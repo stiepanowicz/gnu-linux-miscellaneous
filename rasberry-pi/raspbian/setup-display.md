@@ -4,10 +4,12 @@
 
 ##### Open the `config.txt` file in the root directory of the TF card(/boot), comment out the following lines:
 `#camera_auto_detect=1`
+
 `#dtoverlay=vc4-kms-v3d`
 
 ##### Add the following lines under `[all]`:
 `dtoverlay=vc4-fkms-v3d`
+
 `start_x=1` 
 
 ##### Then save the file and reboot the system:
@@ -15,8 +17,11 @@
 
 ## Backlight controlling
 `wget https://www.waveshare.net/w/upload/3/39/Brightness.tar.gz`
+
 `tar -xzf Brightness.tar.gz`
+
 `cd brightness`
+
 `./install.sh`
 
 ##### Menu -> Accessories -> Brightness
