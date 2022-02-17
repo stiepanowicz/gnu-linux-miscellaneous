@@ -1,0 +1,1 @@
+Bash scripts, cheatsheets and notes concerning linux.
