@@ -1,5 +1,5 @@
 
-#### invert screen
+## invert screen
 
 `sudo nano /boot/config.txt`
 
@@ -9,7 +9,7 @@ add lines:
 
 `display_rotate=2`
 
-#### Waveshare DSI 7’ display configuration and bluetooth fix
+## Waveshare DSI 7’ display configuration and bluetooth fix
 
 <https://github.com/goodtft/LCD-show/issues/278>
 
@@ -21,7 +21,7 @@ change `console=ttyAMA0,115200` to `console=serial0,115200`
 
 `sudo reboot` 
 
-#### bluetooth fix and enable on boot
+## bluetooth fix and enable on boot
 
 `sudo apt-get install pi-bluetooth`
 
