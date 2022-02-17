@@ -6,7 +6,7 @@
 
 `vim /media/cmdline.txt`
 
-#### change `console=ttyAMA0,115200` to `console=serial0,115200`
+change `console=ttyAMA0,115200` to `console=serial0,115200`
 
 `sudo reboot` 
 
@@ -22,7 +22,7 @@
 
 `sudo nano /boot/config.txt`
 
-#### add dtoverlay=pi4-enable-bt
+add `dtoverlay=pi4-enable-bt`
 
 `sudo reboot`
 
