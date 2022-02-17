@@ -15,3 +15,7 @@
 
 ##### add to filesystem table to be used at boot
 `echo ‘/mnt/1GiB.swap swap swap defaults 0 0’ | sudo tee -a /etc/fstab`
+
+
+
+# DUPA
