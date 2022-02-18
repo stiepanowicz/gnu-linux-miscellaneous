@@ -1,22 +1,20 @@
-`id`
+`id` - displays the user and group names and numeric IDs, of the calling process
 
-`hostname`
+`hostname` - set or print name of current host system
 
 `ip`
 
-`netstat`
+`netstat` - show network status
 
 `ss`
 
-`who`
+`who` - displays who is logged in
 
 `lsblk`
 
 `lsusb`
 
 `lsof` - list open files
-
-`apropos`
 
 `adduser`
 
@@ -28,7 +26,7 @@
 
 `env`
 
-`uname`
+`uname` - prints operating system name
 
 `pwd` 
 
@@ -59,7 +57,9 @@ If we use wget in the same way, the difference to curl is that the website conte
 
 `whereis aircrack-ng` 
 
-`which aircrack-ng `
+`which aircrack-ng`
+
+`apropos` - searches a set of database files containing short descriptions of system commands for keywords and displays the result on the standard output.
 
 `find -type f -name apache2a`
 
