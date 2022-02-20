@@ -8,3 +8,4 @@
 
 <https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb>
 
+<https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/>
