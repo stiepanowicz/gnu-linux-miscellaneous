@@ -1,1 +1,1 @@
-# gnu-linux-miscellaneous
+# Repository for everything concerning GNU/Linux
