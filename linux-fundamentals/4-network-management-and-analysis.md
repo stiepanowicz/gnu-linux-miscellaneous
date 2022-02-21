@@ -34,6 +34,8 @@
 
 `dhclient eth0 `
 
+![dhcp-server-image](/assets/images/DHCP-server.jpeg)
+
 ***
 
 ### dig - Domain Information Groper
