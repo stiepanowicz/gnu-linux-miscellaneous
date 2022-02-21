@@ -1,6 +1,6 @@
 # Permissions
 
-![permissions](/asssets/images/permissions.jpeg)
+![permissions](/assets/images/permissions.jpeg)
 
 ### check permissions 
 
