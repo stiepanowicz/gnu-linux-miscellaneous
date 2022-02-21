@@ -1,4 +1,4 @@
-#### cat - concatenate and print files 
+## cat - concatenate and print files 
 
 `>` - redirection symbol
 
@@ -20,11 +20,11 @@
 
 `rm -r new_directory` - delete directory with its content
 
-#### cp - copy files
+## cp - copy files
 
 `cp old_file /home/Documents/` - copy file to directory
 
-#### mv - move file or directory
+## mv - move file or directory
 
 `mv old_file /home/Documents/` - move file
 
