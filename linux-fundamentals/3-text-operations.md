@@ -24,28 +24,27 @@
 
 ### `grep` - global regular expression print 
 
-cat /etc/snort/snort.conf | grep output 
+`cat /etc/snort/snort.conf | grep output` 
 
-tail -n+507 /etc/snort/snort.conf | head -n 6 
+`tail -n+507 /etc/snort/snort.conf | head -n 6` 
 
-sed - stream editor 
+***
 
-cat /etc/snort/snort.conf | grep mysql 
+### `sed` - stream editor 
 
-sed s/mysql/MySQL/g /etc/snort/snort.conf > snort2.conf 
+`cat /etc/snort/snort.conf | grep mysql` 
 
-cat snort2.conf | grep MySQL 
+`sed s/mysql/MySQL/g /etc/snort/snort.conf > snort2.conf` 
 
-sed s/mysql/MySQL/2 snort.conf > snort2.conf 
+`cat snort2.conf | grep MySQL` 
 
-more - scrolling file 
+`sed s/mysql/MySQL/2 snort.conf > snort2.conf` 
 
-more /etc/snort/snort.conf 
+***
 
-/key_word 
+### `more` - scrolling file 
 
-n - next 
-
+`more /etc/snort/snort.conf` 
  
 
  
