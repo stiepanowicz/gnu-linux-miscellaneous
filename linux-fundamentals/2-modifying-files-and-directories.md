@@ -1,6 +1,6 @@
 # Modifying files and directories 
 
-### cat - concatenate and print files 
+### `cat` - concatenate and print files 
 
 `>` - redirection symbol
 
@@ -24,13 +24,13 @@
 
 ***
 
-### cp - copy files
+### `cp` - copy files
 
 `cp old_file /home/Documents/` - copy file to directory
 
 ***
 
-### mv - move file or directory
+### `mv` - move file or directory
 
 `mv old_file /home/Documents/` - move file
 
