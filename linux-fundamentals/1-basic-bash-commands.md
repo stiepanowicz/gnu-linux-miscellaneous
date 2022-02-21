@@ -47,6 +47,8 @@
 `wget` - download files from FTP or HTTP servers directly from the terminal and serves as a good download manager. 
 If we use wget in the same way, the difference to curl is that the website content is downloaded and stored locally
 
+***
+
 ### help
 
 `aircrack-ng --help`
@@ -54,6 +56,8 @@ If we use wget in the same way, the difference to curl is that the website conte
 `aircrack-ng -h`
 
 `man aircrack-ng`
+
+***
 
 ### searching
 

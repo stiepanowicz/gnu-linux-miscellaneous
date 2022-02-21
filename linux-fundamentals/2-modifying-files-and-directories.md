@@ -1,4 +1,4 @@
-# Modifying files and directories
+# Modifying files and directories 
 
 ### cat - concatenate and print files 
 
@@ -22,9 +22,13 @@
 
 `rm -r new_directory` - delete directory with its content
 
+***
+
 ### cp - copy files
 
 `cp old_file /home/Documents/` - copy file to directory
+
+***
 
 ### mv - move file or directory
 
