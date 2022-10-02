@@ -22,4 +22,4 @@
 
 <https://www.geeksforgeeks.org/dd-command-linux/>
 
-
+<https://explainshell.com/>
